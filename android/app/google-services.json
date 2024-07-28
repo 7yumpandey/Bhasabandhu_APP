@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975864479146",
+    "project_id": "bhasabandhuapp-48af3",
+    "storage_bucket": "bhasabandhuapp-48af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975864479146:android:803de256fc8be1fc75bfd3",
+        "android_client_info": {
+          "package_name": "com.example.witness_deposition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsc4hUgyBYm6j93DPAsaCVIptFN-YOwtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
