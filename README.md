@@ -1,6 +1,6 @@
 # Witness Disposition Automation App
 
-![App Screenshot](./your-image-name.png)
+![App Screenshot](assets/images/APP_UI.png)
 
 ## Overview
 
