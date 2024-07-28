@@ -41,11 +41,5 @@ The **Witness Disposition Automation App** is a powerful Flutter-based mobile ap
 - **Cloud Platform**: Microsoft Azure
 - **Development Tools**: Visual Studio Code, Android Studio, Git, GitHub
 
-## Getting Started
-
-Follow these steps to set up the project locally:
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/witness-disposition-automation-app.git
-   cd witness-disposition-automation-app
+## Contact
+Have questions or feedback? Feel free to reach out at [pandeysatyam2911@gmail.com].
